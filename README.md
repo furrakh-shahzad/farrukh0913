@@ -26,7 +26,7 @@ I'm a highly skilled and energetic Full Stack Developer with 5+ years of experie
 - **Cloud & DevOps**:
   - **AWS**: Cognito, OpsWorks, Lambda, S3
   - **Azure**: Storage, Redis, Functions, DocumentDB
-  - CI/CD: Azure DevOps, CircleCI, Octopus Deploy
+  - CI/CD: Azure DevOps, AWS, Vercel Deploy
 - **Mobile Apps**: Ionic, Cordova, Capacitor, Hybrid apps
 - **Real-time Communication**: WebRTC, Ably, Socket.io
 - **UI/UX & Design Tools**: HTML5, CSS3, Bootstrap, Illustrator, Photoshop, SASS/SCSS, jQuery
